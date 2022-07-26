@@ -16,7 +16,6 @@ public:
                      return original;
         
                 if(cloned == NULL)
-                    return cloned;              
-                
+                    return cloned;                              
     }
 };
