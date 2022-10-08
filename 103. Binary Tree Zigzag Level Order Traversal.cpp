@@ -27,6 +27,7 @@ public:
                 if(root == null)
                     return;
         
+       
                 k.push_back(root->val);
         
                  tree(root->left);
