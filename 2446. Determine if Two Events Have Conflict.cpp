@@ -11,7 +11,7 @@ public:
       
            int min2 = stoi((event2[3]-48)+(event2[4]-48));
         
-            int s_houre1 = hour2-hour1;
+           int s_houre1 = hour2-hour1;
         
         
         if(hour1 > )
