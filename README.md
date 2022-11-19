@@ -1,2 +1,2 @@
 # LeetCode-Algorithms
-Solved Algorithms from LeetCode website  solved in  C++ / sql / C language
+Solved Algorithms from LeetCode  in language  C++ / SQL / C language
