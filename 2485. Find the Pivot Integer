@@ -1,0 +1,8 @@
+class Solution {
+public:
+    int pivotInteger(int n) {
+         int sumn = 0;
+         int sum = 0;
+         for(int i)
+    }
+};
